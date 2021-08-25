@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfever/website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alfever/website/issues"
+  },
+  "homepage": "https://github.com/alfever/website#readme"
 }
